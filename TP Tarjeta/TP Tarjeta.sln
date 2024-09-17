@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP Tarjeta", "TP Tarjeta.csproj", "{C7C410A9-52DF-465D-8CF5-A0100B4A5B23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test TP Tarjeta", "..\Test TP Tarjeta\Test TP Tarjeta.csproj", "{942CB08E-673E-4C43-B552-51F5F0E51DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C410A9-52DF-465D-8CF5-A0100B4A5B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C410A9-52DF-465D-8CF5-A0100B4A5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C410A9-52DF-465D-8CF5-A0100B4A5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C410A9-52DF-465D-8CF5-A0100B4A5B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942CB08E-673E-4C43-B552-51F5F0E51DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942CB08E-673E-4C43-B552-51F5F0E51DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942CB08E-673E-4C43-B552-51F5F0E51DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942CB08E-673E-4C43-B552-51F5F0E51DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82D12B7-F8AA-48D8-A150-52C3845F4E40}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\LIC\source\repos\TP Tarjeta\bin\Debug\TP Tarjeta.exe.config
+C:\Users\LIC\source\repos\TP Tarjeta\bin\Debug\TP Tarjeta.exe
+C:\Users\LIC\source\repos\TP Tarjeta\bin\Debug\TP Tarjeta.pdb
+C:\Users\LIC\source\repos\TP Tarjeta\obj\Debug\TP Tarjeta.csproj.AssemblyReference.cache
+C:\Users\LIC\source\repos\TP Tarjeta\obj\Debug\TP Tarjeta.csproj.CoreCompileInputs.cache
+C:\Users\LIC\source\repos\TP Tarjeta\obj\Debug\TP Tarjeta.exe
+C:\Users\LIC\source\repos\TP Tarjeta\obj\Debug\TP Tarjeta.pdb
